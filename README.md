@@ -4,7 +4,7 @@
 ### 1) Static Web App
 ### 2) QnA Maker
 ## Project Link : https://kind-hill-075c75c10.1.azurestaticapps.net
-## Github Link : 
+## Github Link : https://umarfarook049.github.io/FutureReadyTalentInternshipProject/
 
 ## Project Title:
 ### Travel ChatBox using Microsoft Azure
