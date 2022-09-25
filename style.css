@@ -1,0 +1,22 @@
+body{
+    border: 5px solid blue;
+}
+
+h1{
+    text-align: center;
+    color: green;
+    padding-top: 20px;
+}
+
+.bot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+
+.bot iframe{
+    width: 70%;
+    border: 3px solid brown;
+}
