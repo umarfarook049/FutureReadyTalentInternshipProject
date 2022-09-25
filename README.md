@@ -3,7 +3,7 @@
 ## Azure Services Used: 
 ### 1) Static Web App
 ### 2) QnA Maker
-## Project Link : https://white-smoke-0d8056310.1.azurestaticapps.net
+## Project Link : https://kind-hill-075c75c10.1.azurestaticapps.net
 
 ## Project Title:
 ### Travel ChatBox using Microsoft Azure
