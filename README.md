@@ -5,6 +5,7 @@
 ### 2) QnA Maker
 ## Project Link : https://kind-hill-075c75c10.1.azurestaticapps.net
 ## Github Link : https://umarfarook049.github.io/FutureReadyTalentInternshipProject/
+## Project Sample Video : 
 
 ## Project Title:
 ### Travel ChatBox using Microsoft Azure
